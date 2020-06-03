@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!--html:标签 属性-->
+<!--标签分两类：双标签，单标签-->
+<!--标签分类：块级标签：独立成行，内联标签：不会独立成行，默认跟在其他标签的右边-->
+<!--lang当前语言-->
+<html lang="en">
+<head>
+    <!--翻译语言-->
+    <meta charset="UTF-8" name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <title>081417231李建华</title>
+
+    <!--用来加载外部资源的标签-->
+    <link rel="short icon" href="Resource/icon.png">
+    <link rel="stylesheet" href="ExternalStyle.css">
+    <style>
+        /*相对定位需要参照物*/
+        .MD_external_div{
+            position: relative;
+        }
+        .MD_inner_div{
+            width: 66px;
+            height: 120px;
+            left: 50%;
+            top: 50%;
+
+            margin-left: -33px;
+            margin-top: -60px;
+
+            position: absolute;
+
+            text-align: center;
+        }
+        button{
+            background: rgb(40,133,202);
+            width: 66px;
+            height: 20px;
+        }
+
+        .MD_third_div{
+            border: 1px solid #dddddd;
+            height: 50px;
+            width: 90%;
+            border-radius: 5px;
+            background: white;
+            margin: 0 auto;
+
+            line-height: 50px;
+
+            margin-top: 15px;
+        }
+        .MD_left_img{
+            float: left;
+            margin-left: 10px;
+            margin-top: 15px;
+            margin-right: 20px;
+        }
+        .MD_rignt_img{
+            float: right;
+            margin-right: 10px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<!--第一部分-->
+<!--span用来少量文字用的标签-->
+<!--语义化标签：标签本身没有专门的含义主要目的就是用来增强代码的可读性-->
+<header>
+    <span>我的小滴</span>
+</header>
+
+
+
+<!--第二部分-->
+<div class="MD_external_div">
+    <img src="Resource/banner5.png" alt="">
+    <div class="MD_inner_div">
+        <img src="Resource/head.png" alt="">
+        <span>华衫</span>
+        <a href="index.html">
+        <button>退出登录</button>
+        </a>
+    </div>
+</div>
+
+<!--第三部分-->
+
+<!--一个ul为一行，一个li为yi列-->
+<div class="MD_third_div">
+    <img class="MD_left_img" src="Resource/gr_1.png" alt="">
+    <span>我的客户</span>
+    <img class="MD_rignt_img" src="Resource/jt.png" alt="">
+</div>
+
+<div class="MD_third_div">
+    <img class="MD_left_img" src="Resource/gr_1.png" alt="">
+    <span>我的余额</span>
+    <img class="MD_rignt_img" src="Resource/jt.png" alt="">
+</div>
+
+<div class="MD_third_div">
+    <img class="MD_left_img" src="Resource/gr_1.png" alt="">
+    <span>注册客户</span>
+    <img class="MD_rignt_img" src="Resource/jt.png" alt="">
+</div>
+
+<div class="MD_third_div">
+    <img class="MD_left_img" src="Resource/gr_1.png" alt="">
+    <span>修改密码</span>
+    <img class="MD_rignt_img" src="Resource/jt.png" alt="">
+</div>
+
+
+<!--第四部分-->
+<section>
+    <ul class="footer">
+        <a href="DropleService.html"> <img src="Resource/nav10.png" alt=""> <span>小滴服务</span> </a>
+        <a href="EnterpriseProject.html"> <img src="Resource/nav20.png" alt=""> <span>企业项目</span> </a>
+        <a href="ServiceProcess.html"> <img src="Resource/nav30.png" alt=""> <span>服务流程</span> </a>
+        <a href="PlatformMien.html"> <img src="Resource/nav40.png" alt=""> <span>平台风采</span> </a>
+        <a href="MyDroplet.html"> <img src="Resource/nav51.png" alt=""> <span style="color:red">我的小滴</span> </a>
+    </ul>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="238c306c-32d8-401a-824d-4a2c9ca12dbe" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cipvu8g1k6Rd8Oeoy8yw9daYLb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/PlatformMien" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspaces\WebstormProjects\EnterpriseHome\Resource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.PlatformMien.html">
+    <configuration name="DropleService.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/EnterpriseHome/DropleService.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="PlatformMien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/EnterpriseHome/PlatformMien.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.DropleService.html" />
+      <item itemvalue="JavaScript Debug.PlatformMien.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.PlatformMien.html" />
+        <item itemvalue="JavaScript Debug.DropleService.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="238c306c-32d8-401a-824d-4a2c9ca12dbe" name="Default" comment="" />
+      <created>1590974200741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590974200741</updated>
+      <workItem from="1590974202858" duration="7640000" />
+      <workItem from="1590991395885" duration="12951000" />
+      <workItem from="1591012124590" duration="4863000" />
+      <workItem from="1591021504672" duration="39000" />
+      <workItem from="1591021802640" duration="6000" />
+      <workItem from="1591056192847" duration="23241000" />
+      <workItem from="1591143200421" duration="9399000" />
+      <workItem from="1591160614557" duration="4748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1591171286728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="658" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591171286728" />
+  </component>
+</project>
